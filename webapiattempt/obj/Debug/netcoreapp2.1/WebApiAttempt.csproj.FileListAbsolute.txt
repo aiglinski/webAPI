@@ -1,0 +1,14 @@
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/bin/Debug/netcoreapp2.1/WebApiAttempt.deps.json
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/bin/Debug/netcoreapp2.1/WebApiAttempt.runtimeconfig.json
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/bin/Debug/netcoreapp2.1/WebApiAttempt.runtimeconfig.dev.json
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/bin/Debug/netcoreapp2.1/WebApiAttempt.dll
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/bin/Debug/netcoreapp2.1/WebApiAttempt.pdb
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/obj/Debug/netcoreapp2.1/WebApiAttempt.csprojAssemblyReference.cache
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/obj/Debug/netcoreapp2.1/WebApiAttempt.csproj.CoreCompileInputs.cache
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/obj/Debug/netcoreapp2.1/WebApiAttempt.RazorAssemblyInfo.cache
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/obj/Debug/netcoreapp2.1/WebApiAttempt.RazorAssemblyInfo.cs
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/obj/Debug/netcoreapp2.1/WebApiAttempt.AssemblyInfoInputs.cache
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/obj/Debug/netcoreapp2.1/WebApiAttempt.AssemblyInfo.cs
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/obj/Debug/netcoreapp2.1/WebApiAttempt.RazorTargetAssemblyInfo.cache
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/obj/Debug/netcoreapp2.1/WebApiAttempt.dll
+/Users/andrewmueller/Projects/WebApiAttempt/WebApiAttempt/obj/Debug/netcoreapp2.1/WebApiAttempt.pdb
